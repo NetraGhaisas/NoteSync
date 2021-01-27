@@ -23,4 +23,4 @@ Application for converting notes images to text using OCR
 
 #### Live site
 
-https://sleepy-beach-70913.herokuapp.com/
+https://note-sync.herokuapp.com/
